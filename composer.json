@@ -37,7 +37,7 @@
     "repositories": [
         {
             "type": "github",
-            "url": "https://github.com/tunght13488/php-graph-sdk.git"
+            "url": "https://github.com/love-bonito/php-graph-sdk.git"
         }
     ]
 }
